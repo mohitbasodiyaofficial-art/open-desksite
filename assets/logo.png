@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Open Desk logo">
+  <title>Open Desk Logo</title>
+</head>
+<body style="margin:0;min-height:100vh;display:grid;place-items:center;background:#f5f1e9;">
+  <!-- Open Desk logo: pure HTML + inline SVG, no external libraries or image files. -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360" role="img" aria-labelledby="logo-title logo-desc">
+    <title id="logo-title">Open Desk logo</title>
+    <desc id="logo-desc">A graphite filing tab with a bright orange signal stripe and folded note corner.</desc>
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M188 54H332M188 306H332" stroke="#d95d32" stroke-width="3"/>
+      <path d="M188 100H332M188 260H332" stroke="#3b3834" stroke-width="2" opacity=".65"/>
+      <path d="M188 132H332M188 228H332" stroke="#d95d32" stroke-width="3" opacity=".75"/>
+      <path d="M188 164H332M188 196H332" stroke="#3b3834" stroke-width="2" opacity=".65"/>
+    </g>
+    <path d="M79 116c0-12 10-22 22-22h115c12 0 22 10 22 22v150c0 12-10 22-22 22H101c-12 0-22-10-22-22Z" fill="#292824"/>
+    <path d="M206 94h10c12 0 22 10 22 22v50l-49-49c-7-7-2-23 17-23Z" fill="#e86f3d"/>
+    <path d="M206 94h10c12 0 22 10 22 22v50l-49-49c-7-7-2-23 17-23Z" fill="none" stroke="#292824" stroke-width="2"/>
+    <rect x="151" y="30" width="30" height="300" rx="14" fill="#f4773e"/>
+    <path d="M151 30h30v300h-30Z" fill="none" stroke="#f4773e" stroke-width="2"/>
+  </svg>
+</body>
+</html>
