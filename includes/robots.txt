@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mohitbasodiyaofficial-art.github.io/open-desksite/sitemap.xml
